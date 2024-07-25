@@ -7,3 +7,16 @@ button{
     padding: 10px;
     font-size: 16px;
 }
+.container{
+    background-color: whitesmoke;
+    padding: 7px
+}
+#giua{
+    background-color: white;
+    border: 1px solid rgb(225, 223, 223);
+
+
+}
+#tatca{
+    text-align: center;
+}

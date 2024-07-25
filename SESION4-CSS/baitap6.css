@@ -1,12 +1,10 @@
 #color{
     color:red
 }
-div{
+#giua{
     border: 3px solid green;
-  padding-top: 50px;
-  padding-right: 310px;
-  padding-bottom: 50px;
-  padding-left: 310px;
+    text-align: center;
+    padding: 15px;
 }
 #color2{
     color:red
@@ -18,14 +16,14 @@ button{
     background-color: green;
     color: aliceblue;
     border: none
-    text-align: center;
     display: inline-block;
     padding: 20px;
     font-size:16px;
     margin:4px 2px
-    cursor: pointer;
     border-radius:12px 
 }
 #color5{
-    
+    background-color: white;
+    padding:1px 10px 5px 8px;
+    border-left:5px solid green ;
 }

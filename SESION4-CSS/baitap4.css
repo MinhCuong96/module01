@@ -2,5 +2,7 @@ h1{
     color:darkcyan
 }
 div {
-    background-color
+    background-color:antiquewhite;
+    padding:1px 10px 5px 8px;
+    border-left: 5px solid darkgoldenrod;
 }
